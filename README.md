@@ -1,4 +1,4 @@
-# three_door_gameshow_gameshow
+# three_door_gameshow
 
 To execute this program
 
